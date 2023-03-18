@@ -10,6 +10,10 @@ Language: Dart
 Tech: Flutter
 DB: Firebase
 Firebase: Auth, Google and FB
-Api: news.api (https://newsapi.org/)
+Api: newsapi (https://newsapi.org/).
+
+https://user-images.githubusercontent.com/85548288/226095648-1176a2c8-a27b-49b4-bc80-dbcb9ab17f5f.mp4
+
+
 
 
